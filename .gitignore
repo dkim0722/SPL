@@ -1,0 +1,4 @@
+# project ignores
+*.o
+*.exe
+*.json
